@@ -1,0 +1,2 @@
+# WaterCost
+This is a mockup website for the project for [SGLI](http://www.punahou.edu/wo-international-center/student-global-leadership-institute/index.aspx "http://www.punahou.edu/wo-international-center/student-global-leadership-institute/index.aspx"). It contains information and links. This website was created in a few hours, so please excuse the template. Anyways, the topic for SGLI was water and our group chose to talk about how food requires water to produce.
